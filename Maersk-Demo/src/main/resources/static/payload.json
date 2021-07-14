@@ -1,0 +1,126 @@
+{
+  "Geography": {
+    "GeoRowID": "145668        ",
+    "GeoType": "Country",
+    "Name": "India",
+    "Status": "Active",
+    "ValidFrom": "1900-01-01 00:00:00.0",
+    "ValidTo": "9999-12-31 00:00:00.0",
+    "Longitude": null,
+    "Latitude": null,
+    "TimeZone": "INT",
+    "DaylightSavingTime": "EMPT",
+    "UTCOffsetMinutes": "330",
+    "DaylightSavingStart": null,
+    "DaylightSavingEnd": null,
+    "DaylightSavingShiftMinutes": null,
+    "Description": "trigger 23 Sept",
+    "WorkaroundReason": null,
+    "Restricted": "N",
+    "SiteType": null,
+    "GPSFlag": null,
+    "GSMFlag": null,
+    "StreetNumber": null,
+    "AddressLine1": null,
+    "AddressLine2": null,
+    "AddressLine3": null,
+    "PostalCode": null,
+    "PostalCodeMandatoryFlag": "O",
+    "StateProvienceMandatory": null,
+    "DialingCode": "91",
+    "DialingCodedescription": "IN    +91",
+    "PortFlag": null,
+    "OlsonTimezone": null,
+    "BDAType": null,
+    "GeographyAlternateNames": [
+      {
+        "Name": "Port, India",
+        "Description": "..",
+        "Status": "Active"
+      },
+      {
+        "Name": "Haldia port, India, IN",
+        "Description": null,
+        "Status": "InActive"
+      },
+      {
+        "Name": "Nhava Shiva-India",
+        "Description": null,
+        "Status": "InActive"
+      }
+    ],
+    "GeographyAlternateCodes": [
+      {
+        "CodeType": "FIPS",
+        "Code": "IN"
+      },
+      {
+        "CodeType": "GEOID",
+        "Code": "10Z2W9ZTH2RUM"
+      },
+      {
+        "CodeType": "RKST",
+        "Code": "IN"
+      },
+      {
+        "CodeType": "RKTS",
+        "Code": "410"
+      }
+    ],
+    "GeographyFence": null,
+    "GeographyCountryDetails": null,
+    "GeographyParentDetails": [
+      {
+        "getParentRowId": "999907        ",
+        "Name": "Asia",
+        "Type": "Continent",
+        "GeographyParentAlternateCodeDetails": [
+          {
+            "CodeType": "GEOID",
+            "Code": "M44YQULZW8RID"
+          },
+          {
+            "CodeType": "CONTINENT CODE",
+            "Code": "ASI"
+          }
+        ]
+      }
+    ],
+    "GeographySubCityParentDetails": null,
+    "GeographyBDADetails": [
+      {
+        "bdaRowid": "2121799       ",
+        "Name": "India Cluster",
+        "Type": "Business Defined Area",
+        "BDAType": "AREA",
+        "GeographyBDAAlternateCodeDetails": [
+          {
+            "CodeType": "GEOID",
+            "Code": "0000000000055"
+          },
+          {
+            "CodeType": "BDA CODE",
+            "Code": "INC"
+          }
+        ]
+      },
+      {
+        "bdaRowid": "2582840       ",
+        "Name": "India and Bangladesh Area",
+        "Type": "Business Defined Area",
+        "BDAType": "CLUSTER",
+        "GeographyBDAAlternateCodeDetails": [
+          {
+            "CodeType": "BDA CODE",
+            "Code": "IBC"
+          },
+          {
+            "CodeType": "GEOID",
+            "Code": "RRKJ9QFESZA3W"
+          }
+        ]
+      }
+    ],
+    "GeographyBDALocationsDetails": null
+  }
+}

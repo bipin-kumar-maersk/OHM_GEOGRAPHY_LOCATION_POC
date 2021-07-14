@@ -1,0 +1,124 @@
+{
+    "Geography": {
+      "GeoRowID": "103704        ",
+      "GeoType": "City",
+      "Name": "Valensole",
+      "Status": "Active",
+      "ValidFrom": "1900-01-01 00:00:00.0",
+      "ValidTo": "9999-12-31 00:00:00.0",
+      "Longitude": "5.9687",
+      "Latitude": "43.8281",
+      "TimeZone": "CET",
+      "DaylightSavingTime": "CETs",
+      "UTCOffsetMinutes": "60",
+      "DaylightSavingStart": "2017-09-28 12:00:00.0",
+      "DaylightSavingEnd": "2017-12-31 12:00:00.0",
+      "DaylightSavingShiftMinutes": "60",
+      "Description": "retrigger 042221",
+      "WorkaroundReason": null,
+      "Restricted": null,
+      "SiteType": null,
+      "GPSFlag": null,
+      "GSMFlag": null,
+      "StreetNumber": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "PostalCode": null,
+      "PostalCodeMandatoryFlag": null,
+      "StateProvienceMandatory": null,
+      "DialingCode": null,
+      "DialingCodedescription": null,
+      "PortFlag": "No",
+      "OlsonTimezone": "Europe/Paris",
+      "BDAType": null,
+      "GeographyAlternateNames": [
+        {
+          "Name": "Valensole, France",
+          "Description": null,
+          "Status": "Active"
+        }
+      ],
+      "GeographyAlternateCodes": [
+        {
+          "CodeType": "RKST",
+          "Code": "FRALE"
+        },
+        {
+          "CodeType": "RKTS",
+          "Code": "V4A"
+        },
+        {
+          "CodeType": "GEOID",
+          "Code": "0N9SSQYETQH6M"
+        }
+      ],
+      "GeographyFence": null,
+      "GeographyCountryDetails": [
+        {
+          "countryRowid": "381493        ",
+          "Name": "France",
+          "Type": "GDA.COUNTRY",
+          "GeographyCountryAlternateCodeDetails": [
+            {
+              "CodeType": "RKST",
+              "Code": "FR"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "111"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "29AS0AX2Y69A6"
+            },
+            {
+              "CodeType": "FIPS",
+              "Code": "FR"
+            }
+          ]
+        }
+      ],
+      "GeographyParentDetails": [
+        {
+          "getParentRowId": "1110970       ",
+          "Name": "Alpes-de-Haute-Provence",
+          "Type": "State/Prov",
+          "GeographyParentAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "0PTA06NC9VJOT"
+            },
+            {
+              "CodeType": "ISO TERRITORY",
+              "Code": "04"
+            },
+            {
+              "CodeType": "PROVINCE",
+              "Code": "04"
+            }
+          ]
+        }
+      ],
+	  "GeographySubCityParentDetails": null,
+      "GeographyBDADetails": [
+        {
+          "bdaRowid": "2124617       ",
+          "Name": "FRFSM",
+          "Type": "Business Defined Area",
+          "BDAType": "POOHG",
+          "GeographyBDAAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "24NOZE2OAQQ4N"
+            },
+            {
+              "CodeType": "BDA CODE",
+              "Code": "FRFSM"
+            }
+          ]
+        }
+      ],
+      "GeographyBDALocationsDetails": null
+    }
+  }

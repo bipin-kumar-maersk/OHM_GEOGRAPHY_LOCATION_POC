@@ -1,0 +1,150 @@
+{
+    "Geography": {
+      "GeoRowID": "5142845       ",
+      "GeoType": "CitySubArea",
+      "Name": "Newark",
+      "Status": "Active",
+      "ValidFrom": "2021-05-09 21:18:30.0",
+      "ValidTo": "9999-12-31 00:00:00.0",
+      "Longitude": "10",
+      "Latitude": "10",
+      "TimeZone": null,
+      "DaylightSavingTime": null,
+      "UTCOffsetMinutes": null,
+      "DaylightSavingStart": null,
+      "DaylightSavingEnd": null,
+      "DaylightSavingShiftMinutes": null,
+      "Description": null,
+      "WorkaroundReason": null,
+      "Restricted": null,
+      "SiteType": null,
+      "GPSFlag": null,
+      "GSMFlag": null,
+      "StreetNumber": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "PostalCode": null,
+      "PostalCodeMandatoryFlag": null,
+      "StateProvienceMandatory": null,
+      "DialingCode": null,
+      "DialingCodedescription": null,
+      "PortFlag": null,
+      "OlsonTimezone": null,
+      "BDAType": null,
+      "GeographyAlternateNames": null,
+      "GeographyAlternateCodes": [
+        {
+          "CodeType": "RKST",
+          "Code": "USTS1"
+        },
+        {
+          "CodeType": "GEOID",
+          "Code": "CKU1UINL1171I"
+        },
+        {
+          "CodeType": "MODEL",
+          "Code": "USNKW"
+        }
+      ],
+      "GeographyFence": null,
+      "GeographyCountryDetails": [
+        {
+          "countryRowid": "545619        ",
+          "Name": "United States test",
+          "Type": "GDA.COUNTRY",
+          "GeographyCountryAlternateCodeDetails": [
+            {
+              "CodeType": "FIPS",
+              "Code": "US"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "US"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "3PUUQDPGC5PXA"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "331"
+            }
+          ]
+        }
+      ],
+      "GeographyParentDetails": [
+        {
+          "getParentRowId": "1050456       ",
+          "Name": "New York",
+          "Type": "State/Prov",
+          "GeographyParentAlternateCodeDetails": [
+            {
+              "CodeType": "FIPS",
+              "Code": "US36"
+            },
+            {
+              "CodeType": "STATE",
+              "Code": "NY"
+            },
+            {
+              "CodeType": "ISO TERRITORY",
+              "Code": "NY"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "04XGANUWDVFR2"
+            }
+          ]
+        }
+      ],
+      "GeographySubCityParentDetails": [
+        {
+          "getSubCityParentRowId": "101493        ",
+          "Name": "Newark",
+          "Type": "City",
+          "GeographySubCityParentAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "NKW"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "USNKW"
+            },
+            {
+              "CodeType": "UN CODE",
+              "Code": "USNNY"
+            },
+            {
+              "CodeType": "SCHEDULE D",
+              "Code": "0903"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "0M6UGZ1XTG51B"
+            }
+          ]
+        }
+      ],
+      "GeographyBDADetails": [
+        {
+          "bdaRowid": "2123703       ",
+          "Name": "USNWK",
+          "Type": "Business Defined Area",
+          "BDAType": "POOL",
+          "GeographyBDAAlternateCodeDetails": [
+            {
+              "CodeType": "BDA CODE",
+              "Code": "USNWK"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "5U5DEPMBL4CMB"
+            }
+          ]
+        }
+      ],
+      "GeographyBDALocationsDetails": null
+    }
+  }

@@ -1,0 +1,1624 @@
+This doc contains all type of Geo Feed samples
+
+#########################State/Prov  Feed #############
+
+
+{
+  "GeographyEntity": {
+    "Geography": {
+      "GeoRowID": "3702864       ",
+      "GeoType": "State/Prov",
+      "Name": "KARNATAKA",
+      "Status": "Active",
+      "ValidFrom": "2017-02-16 14:43:57.0",
+      "ValidTo": "9999-12-31 00:00:00.0",
+      "Longitude": null,
+      "Latitude": null,
+      "TimeZone": "INT",
+      "DaylightSavingTime": "EMPT",
+      "UTCOffsetMinutes": "330",
+      "DaylightSavingStart": null,
+      "DaylightSavingEnd": null,
+      "DaylightSavingShiftMinutes": null,
+      "Description": "trigger 23 sept.",
+      "WorkaroundReason": null,
+      "Restricted": null,
+      "SiteType": null,
+      "GPSFlag": null,
+      "GSMFlag": null,
+      "StreetNumber": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "PostalCode": null,
+      "PostalCodeMandatoryFlag": null,
+      "StateProvienceMandatory": null,
+      "DialingCode": null,
+      "DialingCodedescription": null,
+      "PortFlag": null,
+      "OlsonTimezone": null,
+      "BDAType": null,
+      "GeographyAlternateNames": null,
+      "GeographyAlternateCodes": [
+        {
+          "CodeType": "GEOID",
+          "Code": "KV5TFXQJRI0A3"
+        },
+        {
+          "CodeType": "ISO TERRITORY",
+          "Code": "KA"
+        },
+        {
+          "CodeType": "STATE",
+          "Code": "29"
+        }
+      ],
+      "GeographyFence": null,
+      "GeographyCountryDetails": [
+        {
+          "countryRowid": "145668        ",
+          "Name": "India",
+          "Type": "GDA.COUNTRY",
+          "GeographyCountryAlternateCodeDetails": [
+            {
+              "CodeType": "FIPS",
+              "Code": "IN"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "10Z2W9ZTH2RUM"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "IN"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "410"
+            }
+          ]
+        }
+      ],
+      "GeographyParentDetails": [
+        {
+          "getParentRowId": "145668        ",
+          "Name": "India",
+          "Type": "Country",
+          "GeographyParentAlternateCodeDetails": [
+            {
+              "CodeType": "FIPS",
+              "Code": "IN"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "10Z2W9ZTH2RUM"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "IN"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "410"
+            }
+          ]
+        }
+      ],
+	  "GeographySubCityParentDetails": null,
+      "GeographyBDADetails": null,
+      "GeographyBDALocationsDetails": null
+    }
+  }
+}
+
+
+
+
+
+###################Country Feed ##########################
+
+{
+  "GeographyEntity": {
+    "Geography": {
+      "GeoRowID": "145668        ",
+      "GeoType": "Country",
+      "Name": "India",
+      "Status": "Active",
+      "ValidFrom": "1900-01-01 00:00:00.0",
+      "ValidTo": "9999-12-31 00:00:00.0",
+      "Longitude": null,
+      "Latitude": null,
+      "TimeZone": "INT",
+      "DaylightSavingTime": "EMPT",
+      "UTCOffsetMinutes": "330",
+      "DaylightSavingStart": null,
+      "DaylightSavingEnd": null,
+      "DaylightSavingShiftMinutes": null,
+      "Description": "trigger 23 Sept",
+      "WorkaroundReason": null,
+      "Restricted": "N",
+      "SiteType": null,
+      "GPSFlag": null,
+      "GSMFlag": null,
+      "StreetNumber": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "PostalCode": null,
+      "PostalCodeMandatoryFlag": "O",
+      "StateProvienceMandatory": null,
+      "DialingCode": "91",
+      "DialingCodedescription": "IN    +91",
+      "PortFlag": null,
+      "OlsonTimezone": null,
+      "BDAType": null,
+      "GeographyAlternateNames": [
+        {
+          "Name": "Port, India",
+          "Description": "..",
+          "Status": "Active"
+        },
+        {
+          "Name": "Haldia port, India, IN",
+          "Description": null,
+          "Status": "InActive"
+        },
+        {
+          "Name": "Nhava Shiva-India",
+          "Description": null,
+          "Status": "InActive"
+        }
+      ],
+      "GeographyAlternateCodes": [
+        {
+          "CodeType": "FIPS",
+          "Code": "IN"
+        },
+        {
+          "CodeType": "GEOID",
+          "Code": "10Z2W9ZTH2RUM"
+        },
+        {
+          "CodeType": "RKST",
+          "Code": "IN"
+        },
+        {
+          "CodeType": "RKTS",
+          "Code": "410"
+        }
+      ],
+      "GeographyFence": null,
+      "GeographyCountryDetails": null,
+      "GeographyParentDetails": [
+        {
+          "getParentRowId": "999907        ",
+          "Name": "Asia",
+          "Type": "Continent",
+          "GeographyParentAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "M44YQULZW8RID"
+            },
+            {
+              "CodeType": "CONTINENT CODE",
+              "Code": "ASI"
+            }
+          ]
+        }
+      ],
+	  "GeographySubCityParentDetails": null,
+      "GeographyBDADetails": [
+        {
+          "bdaRowid": "2121799       ",
+          "Name": "India Cluster",
+          "Type": "Business Defined Area",
+          "BDAType": "AREA",
+          "GeographyBDAAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "0000000000055"
+            },
+            {
+              "CodeType": "BDA CODE",
+              "Code": "INC"
+            }
+          ]
+        },
+        {
+          "bdaRowid": "2582840       ",
+          "Name": "India and Bangladesh Area",
+          "Type": "Business Defined Area",
+          "BDAType": "CLUSTER",
+          "GeographyBDAAlternateCodeDetails": [
+            {
+              "CodeType": "BDA CODE",
+              "Code": "IBC"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "RRKJ9QFESZA3W"
+            }
+          ]
+        }
+      ],
+      "GeographyBDALocationsDetails": null
+    }
+  }
+}
+
+
+
+#################Continent Feed########################
+
+{
+  "GeographyEntity": {
+    "Geography": {
+      "GeoRowID": "999907        ",
+      "GeoType": "Continent",
+      "Name": "Asia",
+      "Status": "Active",
+      "ValidFrom": "1900-01-01 00:00:00.0",
+      "ValidTo": "9999-12-31 00:00:00.0",
+      "Longitude": null,
+      "Latitude": null,
+      "TimeZone": null,
+      "DaylightSavingTime": null,
+      "UTCOffsetMinutes": null,
+      "DaylightSavingStart": null,
+      "DaylightSavingEnd": null,
+      "DaylightSavingShiftMinutes": null,
+      "Description": ".updated 23rd sept.",
+      "WorkaroundReason": null,
+      "Restricted": null,
+      "SiteType": null,
+      "GPSFlag": null,
+      "GSMFlag": null,
+      "StreetNumber": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "PostalCode": null,
+      "PostalCodeMandatoryFlag": null,
+      "StateProvienceMandatory": null,
+      "DialingCode": null,
+      "DialingCodedescription": null,
+      "PortFlag": null,
+      "OlsonTimezone": null,
+      "BDAType": null,
+      "GeographyAlternateNames": [
+        {
+          "Name": "Asia Continent",
+          "Description": "Asia Continent",
+          "Status": "Active"
+        }
+      ],
+      "GeographyAlternateCodes": [
+        {
+          "CodeType": "GEOID",
+          "Code": "M44YQULZW8RID"
+        },
+        {
+          "CodeType": "CONTINENT CODE",
+          "Code": "ASI"
+        }
+      ],
+      "GeographyFence": null,
+      "GeographyCountryDetails": null,
+      "GeographyParentDetails": null,
+	  "GeographySubCityParentDetails": null,
+      "GeographyBDADetails": null,
+      "GeographyBDALocationsDetails": null
+    }
+  }
+}
+
+
+
+##################Postal Code Feed #######################
+
+{
+  "GeographyEntity": {
+    "Geography": {
+      "GeoRowID": "8342843       ",
+      "GeoType": "Postal Code",
+      "Name": "Tilbury",
+      "Status": "Active",
+      "ValidFrom": "2021-03-29 22:30:24.0",
+      "ValidTo": "9999-12-31 00:00:00.0",
+      "Longitude": null,
+      "Latitude": null,
+      "TimeZone": null,
+      "DaylightSavingTime": null,
+      "UTCOffsetMinutes": null,
+      "DaylightSavingStart": null,
+      "DaylightSavingEnd": null,
+      "DaylightSavingShiftMinutes": null,
+      "Description": "trigger",
+      "WorkaroundReason": null,
+      "Restricted": null,
+      "SiteType": null,
+      "GPSFlag": null,
+      "GSMFlag": null,
+      "StreetNumber": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "PostalCode": null,
+      "PostalCodeMandatoryFlag": null,
+      "StateProvienceMandatory": null,
+      "DialingCode": null,
+      "DialingCodedescription": null,
+      "PortFlag": null,
+      "OlsonTimezone": null,
+      "BDAType": null,
+      "GeographyAlternateNames": null,
+      "GeographyAlternateCodes": [
+        {
+          "CodeType": "POSTAL CODE",
+          "Code": "RM18 7EH"
+        },
+        {
+          "CodeType": "GEOID",
+          "Code": "N94GUBOSSNUSZ"
+        }
+      ],
+     "GeographyFence": null,
+      "GeographyCountryDetails": [
+        {
+          "countryRowid": "360030        ",
+          "Name": "United Kingdom",
+          "Type": "GDA.COUNTRY",
+          "GeographyCountryAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "21X0YL36747LQ"
+            },
+            {
+              "CodeType": "FIPS",
+              "Code": "UK"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "GB"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "130"
+            }
+          ]
+        }
+      ],
+      "GeographyParentDetails": [
+        {
+          "getParentRowId": "1247051       ",
+          "Name": "Tilbury",
+         "Type": "City",
+          "GeographyParentAlternateCodeDetails": [
+            {
+              "CodeType": "RKST",
+              "Code": "GBTBY"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "1RI81I4JA4VIX"
+            },
+            {
+              "CodeType": "SCHEDULE K",
+              "Code": "41380"
+            },
+            {
+              "CodeType": "UN CODE",
+              "Code": "GBTIL"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "TBY"
+            }
+          ]
+        }
+      ],
+	  "GeographySubCityParentDetails": null,
+      "GeographyBDADetails": null,
+      "GeographyBDALocationsDetails": null
+    }
+  }
+}
+
+
+############### CITY Feed #####################
+{
+  "GeographyEntity": {
+    "Geography": {
+      "GeoRowID": "103704        ",
+      "GeoType": "City",
+      "Name": "Valensole",
+      "Status": "Active",
+      "ValidFrom": "1900-01-01 00:00:00.0",
+      "ValidTo": "9999-12-31 00:00:00.0",
+      "Longitude": "5.9687",
+      "Latitude": "43.8281",
+      "TimeZone": "CET",
+      "DaylightSavingTime": "CETs",
+      "UTCOffsetMinutes": "60",
+      "DaylightSavingStart": "2017-09-28 12:00:00.0",
+      "DaylightSavingEnd": "2017-12-31 12:00:00.0",
+      "DaylightSavingShiftMinutes": "60",
+      "Description": "retrigger 042221",
+      "WorkaroundReason": null,
+      "Restricted": null,
+      "SiteType": null,
+      "GPSFlag": null,
+      "GSMFlag": null,
+      "StreetNumber": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "PostalCode": null,
+      "PostalCodeMandatoryFlag": null,
+      "StateProvienceMandatory": null,
+      "DialingCode": null,
+      "DialingCodedescription": null,
+      "PortFlag": "No",
+      "OlsonTimezone": "Europe/Paris",
+      "BDAType": null,
+      "GeographyAlternateNames": [
+        {
+          "Name": "Valensole, France",
+          "Description": null,
+          "Status": "Active"
+        }
+      ],
+      "GeographyAlternateCodes": [
+        {
+          "CodeType": "RKST",
+          "Code": "FRALE"
+        },
+        {
+          "CodeType": "RKTS",
+          "Code": "V4A"
+        },
+        {
+          "CodeType": "GEOID",
+          "Code": "0N9SSQYETQH6M"
+        }
+      ],
+      "GeographyFence": null,
+      "GeographyCountryDetails": [
+        {
+          "countryRowid": "381493        ",
+          "Name": "France",
+          "Type": "GDA.COUNTRY",
+          "GeographyCountryAlternateCodeDetails": [
+            {
+              "CodeType": "RKST",
+              "Code": "FR"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "111"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "29AS0AX2Y69A6"
+            },
+            {
+              "CodeType": "FIPS",
+              "Code": "FR"
+            }
+          ]
+        }
+      ],
+      "GeographyParentDetails": [
+        {
+          "getParentRowId": "1110970       ",
+          "Name": "Alpes-de-Haute-Provence",
+          "Type": "State/Prov",
+          "GeographyParentAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "0PTA06NC9VJOT"
+            },
+            {
+              "CodeType": "ISO TERRITORY",
+              "Code": "04"
+            },
+            {
+              "CodeType": "PROVINCE",
+              "Code": "04"
+            }
+          ]
+        }
+      ],
+	  "GeographySubCityParentDetails": null,
+      "GeographyBDADetails": [
+        {
+          "bdaRowid": "2124617       ",
+          "Name": "FRFSM",
+          "Type": "Business Defined Area",
+          "BDAType": "POOHG",
+          "GeographyBDAAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "24NOZE2OAQQ4N"
+            },
+            {
+              "CodeType": "BDA CODE",
+              "Code": "FRFSM"
+            }
+          ]
+        }
+      ],
+      "GeographyBDALocationsDetails": null
+    }
+  }
+}
+
+#####################SUBCITY Feed #######################
+{
+  "GeographyEntity": {
+    "Geography": {
+      "GeoRowID": "5142845       ",
+      "GeoType": "CitySubArea",
+      "Name": "Newark",
+      "Status": "Active",
+      "ValidFrom": "2021-05-09 21:18:30.0",
+      "ValidTo": "9999-12-31 00:00:00.0",
+      "Longitude": "10",
+      "Latitude": "10",
+      "TimeZone": null,
+      "DaylightSavingTime": null,
+      "UTCOffsetMinutes": null,
+      "DaylightSavingStart": null,
+      "DaylightSavingEnd": null,
+      "DaylightSavingShiftMinutes": null,
+      "Description": null,
+      "WorkaroundReason": null,
+      "Restricted": null,
+      "SiteType": null,
+      "GPSFlag": null,
+      "GSMFlag": null,
+      "StreetNumber": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "PostalCode": null,
+      "PostalCodeMandatoryFlag": null,
+      "StateProvienceMandatory": null,
+      "DialingCode": null,
+      "DialingCodedescription": null,
+      "PortFlag": null,
+      "OlsonTimezone": null,
+      "BDAType": null,
+      "GeographyAlternateNames": null,
+      "GeographyAlternateCodes": [
+        {
+          "CodeType": "RKST",
+          "Code": "USTS1"
+        },
+        {
+          "CodeType": "GEOID",
+          "Code": "CKU1UINL1171I"
+        },
+        {
+          "CodeType": "MODEL",
+          "Code": "USNKW"
+        }
+      ],
+      "GeographyFence": null,
+      "GeographyCountryDetails": [
+        {
+          "countryRowid": "545619        ",
+          "Name": "United States test",
+          "Type": "GDA.COUNTRY",
+          "GeographyCountryAlternateCodeDetails": [
+            {
+              "CodeType": "FIPS",
+              "Code": "US"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "US"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "3PUUQDPGC5PXA"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "331"
+            }
+          ]
+        }
+      ],
+      "GeographyParentDetails": [
+        {
+          "getParentRowId": "1050456       ",
+          "Name": "New York",
+          "Type": "State/Prov",
+          "GeographyParentAlternateCodeDetails": [
+            {
+              "CodeType": "FIPS",
+              "Code": "US36"
+            },
+            {
+              "CodeType": "STATE",
+              "Code": "NY"
+            },
+            {
+              "CodeType": "ISO TERRITORY",
+              "Code": "NY"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "04XGANUWDVFR2"
+            }
+          ]
+        }
+      ],
+      "GeographySubCityParentDetails": [
+        {
+          "getSubCityParentRowId": "101493        ",
+          "Name": "Newark",
+          "Type": "City",
+          "GeographySubCityParentAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "NKW"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "USNKW"
+            },
+            {
+              "CodeType": "UN CODE",
+              "Code": "USNNY"
+            },
+            {
+              "CodeType": "SCHEDULE D",
+              "Code": "0903"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "0M6UGZ1XTG51B"
+            }
+          ]
+        }
+      ],
+      "GeographyBDADetails": [
+        {
+          "bdaRowid": "2123703       ",
+          "Name": "USNWK",
+          "Type": "Business Defined Area",
+          "BDAType": "POOL",
+          "GeographyBDAAlternateCodeDetails": [
+            {
+              "CodeType": "BDA CODE",
+              "Code": "USNWK"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "5U5DEPMBL4CMB"
+            }
+          ]
+        }
+      ],
+      "GeographyBDALocationsDetails": null
+    }
+  }
+}
+
+
+#########################BDA  FEED #############
+{
+  "GeographyEntity": {
+    "Geography": {
+      "GeoRowID": "2122537       ",
+      "GeoType": "Business Defined Area",
+      "Name": "ISREKL.",
+      "Status": "Active",
+      "ValidFrom": "2011-04-01 00:00:00.0",
+      "ValidTo": "9999-12-31 00:00:00.0",
+      "Longitude": null,
+      "Latitude": null,
+      "TimeZone": null,
+      "DaylightSavingTime": null,
+      "UTCOffsetMinutes": null,
+      "DaylightSavingStart": null,
+      "DaylightSavingEnd": null,
+      "DaylightSavingShiftMinutes": null,
+      "Description": "ISREK",
+      "WorkaroundReason": null,
+      "Restricted": null,
+      "SiteType": null,
+      "GPSFlag": null,
+      "GSMFlag": null,
+      "StreetNumber": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "PostalCode": null,
+      "PostalCodeMandatoryFlag": null,
+      "StateProvienceMandatory": null,
+      "DialingCode": null,
+      "DialingCodedescription": null,
+      "PortFlag": null,
+      "OlsonTimezone": null,
+      "BDAType": "POOL",
+      "GeographyAlternateNames": null,
+      "GeographyAlternateCodes": [
+        {
+          "CodeType": "GEOID",
+          "Code": "LTPAKWTBBDFIP"
+        },
+        {
+          "CodeType": "BDA CODE",
+          "Code": "ISREK"
+        }
+      ],
+      "GeographyFence": null,
+      "GeographyCountryDetails": null,
+      "GeographyParentDetails": null,
+      "GeographySubCityParentDetails": null,
+      "GeographyBDADetails": null,
+      "GeographyBDALocationsDetails": [
+        {
+          "bdaLocRowid": "1042335       ",
+          "Name": "Vestmannaeyjar",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "01Q2QM5HTRTGC"
+            },
+            {
+              "CodeType": "UN CODE",
+              "Code": "ISVES"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISVES"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "6.R"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1064190       ",
+          "Name": "Akranes",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "09G78LG2G8MWQ"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISAKR"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "VS-"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1072931       ",
+          "Name": "Saudarkrokur",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKST",
+              "Code": "ISSAU"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "0CCD12Y7C2XNK"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "7-H"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "107767        ",
+          "Name": "Bloenduos",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "6.F"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "0ON181HIYVMQK"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISBLO"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1111497       ",
+          "Name": "Mosfellsbaer",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "0QDDLTPBU9UXS"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISMOS"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "7-I"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1173678       ",
+          "Name": "Grundartangi",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "RE&"
+            },
+            {
+              "CodeType": "UN CODE",
+              "Code": "ISGRT"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "12C4IBHZEJ8UH"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISGRT"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1180826       ",
+          "Name": "Skagastroend",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "155KJG1QER00W"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISSSD"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "6&R"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "121714        ",
+          "Name": "Vogar",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "0T6MSZ94HZD9D"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "7E."
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISVOG"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1222317       ",
+          "Name": "Reykjavik Eimskip",
+          "Type": "Site",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "1J1238LIUW9KV"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISREKEI"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "REKEI"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1227355       ",
+          "Name": "Stykkisholmur",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "1.D"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISSKM"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "1KODZNBO0UTOA"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1230953       ",
+          "Name": "Sudhavik",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "7Q-"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "1M742QILGVR38"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISSUV"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1362746       ",
+          "Name": "Njardvik",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "2317WHDDMKE74"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "7-P"
+            },
+            {
+              "CodeType": "UN CODE",
+              "Code": "ISNJA"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISNJK"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1378717       ",
+          "Name": "Grundartangi",
+          "Type": "Site",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "RE&TM"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "287WPZD2HSDWW"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISGRTTM"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1386818       ",
+          "Name": "Faskrudsfjordur",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "KM1"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "2B7SP6NYGNRAA"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISFAS"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1396674       ",
+          "Name": "Borgarnes",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "2EUAFOB93EMQH"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISBOR"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "99Y"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1413944       ",
+          "Name": "Flateyri",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKST",
+              "Code": "ISFLA"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "VB&"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "2K9LRPFIGNTO2"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1414191       ",
+          "Name": "Bolungarvik",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKST",
+              "Code": "ISBOL"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "X-1"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "2KJ16L95IN2EH"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1448998       ",
+          "Name": "Seltjarnarnes",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "7D."
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISSTR"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "2X4KQBEB2T8M9"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1478794       ",
+          "Name": "Helguvik",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "&WN"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISHEG"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "34B49MI6G8QPK"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1515087       ",
+          "Name": "Thorshoefn",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "7A&"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "3IP5F08NSYZ8H"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISTHR"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1517830       ",
+          "Name": "Hafnarfjordhur",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "HFZ"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "3JUNZFTDLQ3R3"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISHFF"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "1543971       ",
+          "Name": "Kopavogur",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "3U3RH47WNY5O7"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISX55"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "X55"
+            },
+            {
+              "CodeType": "UN CODE",
+              "Code": "ISKOV"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "203690        ",
+          "Name": "Gardhur",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "1CV3DUP9ALYAP"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISGAR"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "7A="
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "251568        ",
+          "Name": "Reykjavik Samband",
+          "Type": "Site",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "REKRS"
+            },
+            {
+              "CodeType": "MODEL",
+              "Code": "ISREK"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "1SVY63YSLGF3K"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISREKRS"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "256772        ",
+          "Name": "Grindavik",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "1UXT6WK2BEGNW"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISGRI"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "6.L"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "272728        ",
+          "Name": "Husavik",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKST",
+              "Code": "ISHSV"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "QBJ"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "200BHBQ73XMDB"
+            },
+            {
+              "CodeType": "UN CODE",
+              "Code": "ISHZK"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "404073        ",
+          "Name": "Olafsjordur",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "U.Y"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISOLF"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "2GRZ405GFCA90"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "421861        ",
+          "Name": "Hvolsvoellur",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "2N9E1IWBBV9RP"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "VP5"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISVP5"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "427696        ",
+          "Name": "Selfoss",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "T6G"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISSEL"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "2OX0C7NNVWOE7"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "43361         ",
+          "Name": "Gardabaer",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "027M7EA70MNKA"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISGBR"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "J&."
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "449142        ",
+          "Name": "Eimskip Vestmannaeyjar",
+          "Type": "Site",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "2WV4W6DKHME3Q"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISVESTM"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "6.RTM"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "454161        ",
+          "Name": "Reykjavik",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKST",
+              "Code": "ISREK"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "2XY3JOXWA86TB"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "REK"
+            },
+            {
+              "CodeType": "UN CODE",
+              "Code": "ISREY"
+            },
+            {
+              "CodeType": "SCHEDULE K",
+              "Code": "40037"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "472804        ",
+          "Name": "Keflavik",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKST",
+              "Code": "ISMG5"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "MG5"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "31861FJLW0942"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "482643        ",
+          "Name": "Talknafjoerdhur",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "34SLNMWY51UQS"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "7Q&"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISTAL"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "484124        ",
+          "Name": "Neskaupstadur",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "U.4"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "35MDJC6K942CK"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISNES"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "490275        ",
+          "Name": "Siglufjoerdur",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "7-F"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISSIG"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "36ZIL1W4OM8YO"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "528502        ",
+          "Name": "Eyrarbakki",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKST",
+              "Code": "ISEYR"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "7C&"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "3KBQJ664RK4IP"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "547956        ",
+          "Name": "Vopnafjoerdhur",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "7I-"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISVOP"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "3QODXQ8SG9H42"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "550266        ",
+          "Name": "Isafjoerdhur",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "7F&"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "3RDJNNKU3OS0Y"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISIFJ"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "550828        ",
+          "Name": "Dalvik",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "E5B"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISE5B"
+            },
+            {
+              "CodeType": "UN CODE",
+              "Code": "ISDAL"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "3RIGZV8MIPD9T"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "64991         ",
+          "Name": "Samskip HF",
+          "Type": "Site",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "RKTS",
+              "Code": "REKSA"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "09V1767DUG7ZZ"
+            },
+            {
+              "CodeType": "MODEL",
+              "Code": "ISREK"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISREKSA"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "65457         ",
+          "Name": "Reykjanesbaer",
+          "Type": "City",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "09VLMAEITRJIV"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISREY"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "-VH"
+            }
+          ]
+        },
+        {
+          "bdaLocRowid": "96401         ",
+          "Name": "Reykjavik Emb",
+          "Type": "Site",
+          "GeographyBDALocationAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "0KJA1TA3BDZZZ"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "ISREK09"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "REK09"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

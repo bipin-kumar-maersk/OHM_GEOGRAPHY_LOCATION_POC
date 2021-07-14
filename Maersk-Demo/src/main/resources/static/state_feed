@@ -1,0 +1,105 @@
+{
+    "Geography": {
+      "GeoRowID": "3702864       ",
+      "GeoType": "State/Prov",
+      "Name": "KARNATAKA",
+      "Status": "Active",
+      "ValidFrom": "2017-02-16 14:43:57.0",
+      "ValidTo": "9999-12-31 00:00:00.0",
+      "Longitude": null,
+      "Latitude": null,
+      "TimeZone": "INT",
+      "DaylightSavingTime": "EMPT",
+      "UTCOffsetMinutes": "330",
+      "DaylightSavingStart": null,
+      "DaylightSavingEnd": null,
+      "DaylightSavingShiftMinutes": null,
+      "Description": "trigger 23 sept.",
+      "WorkaroundReason": null,
+      "Restricted": null,
+      "SiteType": null,
+      "GPSFlag": null,
+      "GSMFlag": null,
+      "StreetNumber": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "PostalCode": null,
+      "PostalCodeMandatoryFlag": null,
+      "StateProvienceMandatory": null,
+      "DialingCode": null,
+      "DialingCodedescription": null,
+      "PortFlag": null,
+      "OlsonTimezone": null,
+      "BDAType": null,
+      "GeographyAlternateNames": null,
+      "GeographyAlternateCodes": [
+        {
+          "CodeType": "GEOID",
+          "Code": "KV5TFXQJRI0A3"
+        },
+        {
+          "CodeType": "ISO TERRITORY",
+          "Code": "KA"
+        },
+        {
+          "CodeType": "STATE",
+          "Code": "29"
+        }
+      ],
+      "GeographyFence": null,
+      "GeographyCountryDetails": [
+        {
+          "countryRowid": "145668        ",
+          "Name": "India",
+          "Type": "GDA.COUNTRY",
+          "GeographyCountryAlternateCodeDetails": [
+            {
+              "CodeType": "FIPS",
+              "Code": "IN"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "10Z2W9ZTH2RUM"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "IN"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "410"
+            }
+          ]
+        }
+      ],
+      "GeographyParentDetails": [
+        {
+          "getParentRowId": "145668        ",
+          "Name": "India",
+          "Type": "Country",
+          "GeographyParentAlternateCodeDetails": [
+            {
+              "CodeType": "FIPS",
+              "Code": "IN"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "10Z2W9ZTH2RUM"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "IN"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "410"
+            }
+          ]
+        }
+      ],
+	  "GeographySubCityParentDetails": null,
+      "GeographyBDADetails": null,
+      "GeographyBDALocationsDetails": null
+    }
+  }

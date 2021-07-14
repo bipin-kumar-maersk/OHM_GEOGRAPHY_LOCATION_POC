@@ -1,0 +1,59 @@
+{
+    "Geography": {
+      "GeoRowID": "999907        ",
+      "GeoType": "Continent",
+      "Name": "Asia",
+      "Status": "Active",
+      "ValidFrom": "1900-01-01 00:00:00.0",
+      "ValidTo": "9999-12-31 00:00:00.0",
+      "Longitude": null,
+      "Latitude": null,
+      "TimeZone": null,
+      "DaylightSavingTime": null,
+      "UTCOffsetMinutes": null,
+      "DaylightSavingStart": null,
+      "DaylightSavingEnd": null,
+      "DaylightSavingShiftMinutes": null,
+      "Description": ".updated 23rd sept.",
+      "WorkaroundReason": null,
+      "Restricted": null,
+      "SiteType": null,
+      "GPSFlag": null,
+      "GSMFlag": null,
+      "StreetNumber": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "PostalCode": null,
+      "PostalCodeMandatoryFlag": null,
+      "StateProvienceMandatory": null,
+      "DialingCode": null,
+      "DialingCodedescription": null,
+      "PortFlag": null,
+      "OlsonTimezone": null,
+      "BDAType": null,
+      "GeographyAlternateNames": [
+        {
+          "Name": "Asia Continent",
+          "Description": "Asia Continent",
+          "Status": "Active"
+        }
+      ],
+      "GeographyAlternateCodes": [
+        {
+          "CodeType": "GEOID",
+          "Code": "M44YQULZW8RID"
+        },
+        {
+          "CodeType": "CONTINENT CODE",
+          "Code": "ASI"
+        }
+      ],
+      "GeographyFence": null,
+      "GeographyCountryDetails": null,
+      "GeographyParentDetails": null,
+	  "GeographySubCityParentDetails": null,
+      "GeographyBDADetails": null,
+      "GeographyBDALocationsDetails": null
+    }
+  }

@@ -1,0 +1,105 @@
+{
+    "Geography": {
+      "GeoRowID": "8342843       ",
+      "GeoType": "Postal Code",
+      "Name": "Tilbury",
+      "Status": "Active",
+      "ValidFrom": "2021-03-29 22:30:24.0",
+      "ValidTo": "9999-12-31 00:00:00.0",
+      "Longitude": null,
+      "Latitude": null,
+      "TimeZone": null,
+      "DaylightSavingTime": null,
+      "UTCOffsetMinutes": null,
+      "DaylightSavingStart": null,
+      "DaylightSavingEnd": null,
+      "DaylightSavingShiftMinutes": null,
+      "Description": "trigger",
+      "WorkaroundReason": null,
+      "Restricted": null,
+      "SiteType": null,
+      "GPSFlag": null,
+      "GSMFlag": null,
+      "StreetNumber": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "PostalCode": null,
+      "PostalCodeMandatoryFlag": null,
+      "StateProvienceMandatory": null,
+      "DialingCode": null,
+      "DialingCodedescription": null,
+      "PortFlag": null,
+      "OlsonTimezone": null,
+      "BDAType": null,
+      "GeographyAlternateNames": null,
+      "GeographyAlternateCodes": [
+        {
+          "CodeType": "POSTAL CODE",
+          "Code": "RM18 7EH"
+        },
+        {
+          "CodeType": "GEOID",
+          "Code": "N94GUBOSSNUSZ"
+        }
+      ],
+     "GeographyFence": null,
+      "GeographyCountryDetails": [
+        {
+          "countryRowid": "360030        ",
+          "Name": "United Kingdom",
+          "Type": "GDA.COUNTRY",
+          "GeographyCountryAlternateCodeDetails": [
+            {
+              "CodeType": "GEOID",
+              "Code": "21X0YL36747LQ"
+            },
+            {
+              "CodeType": "FIPS",
+              "Code": "UK"
+            },
+            {
+              "CodeType": "RKST",
+              "Code": "GB"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "130"
+            }
+          ]
+        }
+      ],
+      "GeographyParentDetails": [
+        {
+          "getParentRowId": "1247051       ",
+          "Name": "Tilbury",
+         "Type": "City",
+          "GeographyParentAlternateCodeDetails": [
+            {
+              "CodeType": "RKST",
+              "Code": "GBTBY"
+            },
+            {
+              "CodeType": "GEOID",
+              "Code": "1RI81I4JA4VIX"
+            },
+            {
+              "CodeType": "SCHEDULE K",
+              "Code": "41380"
+            },
+            {
+              "CodeType": "UN CODE",
+              "Code": "GBTIL"
+            },
+            {
+              "CodeType": "RKTS",
+              "Code": "TBY"
+            }
+          ]
+        }
+      ],
+	  "GeographySubCityParentDetails": null,
+      "GeographyBDADetails": null,
+      "GeographyBDALocationsDetails": null
+    }
+  }
