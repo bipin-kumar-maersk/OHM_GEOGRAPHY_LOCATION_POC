@@ -30,8 +30,8 @@ public class KafkaAvroMessageConsumer {
     log.info("Received Messasge in group : {}", message);
     //Gson gson = new Gson();
     //Document document = Document.parse(gson.toJson(message));
-    Geography g= GenreralUtility.buildFinalObject(message);
-    mongoTemplate.save(g,GenreralUtility.GeoTypeMap.get(message.Geography.getGeoType().toString()));
+    Geography g= GenreralUtility.buildFinalMongoObject(message);
+    mongoTemplate.save(g,GenreralUtility.getGeoTypeMap().get(message.Geography.getGeoType().toString()));
   }
 
 
